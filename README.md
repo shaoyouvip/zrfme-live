@@ -4,12 +4,12 @@
 
 ## 域名
 
-四条都指向同一个站点，任选其一：
+分别部署在不同平台 —— 某一家出故障时换另一条即可：
 
-- https://live.zrfme.com
-- https://live.zrfme.net
-- https://live.itzrf.com
-- https://live.zrfme.de
+- Cloudflare：https://live.zrfme.com
+- EdgeOne：https://live.zrfme.net
+- Netlify：https://live.itzrf.com
+- Vercel：https://live.zrfme.de
 
 ## 预览
 
@@ -48,6 +48,7 @@
 
 - [lemon-live](https://github.com/lemonfog/lemon-live) — 聚合直播网站
 - [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) — 简简单单的看直播
+- [YXVM](https://yxvm.com/) 后端由YXVM赞助服务器部署
 
 ---
 
